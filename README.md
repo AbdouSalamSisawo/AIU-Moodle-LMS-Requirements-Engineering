@@ -47,58 +47,9 @@ references/     → APA references
 
 ## Author
 
-[Abdou Salam Sisawo]
-Bachelor of Computer Science (BCS)
-Albukhary International University
+- [Abdou Salam Sisawo]
+- Bachelor of Computer Science (BCS)
+- Albukhary International University
 
 ---
 
-
-# BEST SCREENSHOT STRATEGY
-
-Take screenshots of:
-
-## Screenshot 1 (Best)
-
-Main repository homepage showing:
-
-* folders,
-* README,
-* project title.
-
-This is the strongest screenshot.
-
----
-
-## Screenshot 2
-
-Open the `docs/` folder.
-
-Shows:
-
-* requirement files,
-* organisation,
-* professionalism.
-
----
-
-## Screenshot 3 (Optional)
-
-Wiki Home page.
-
-Makes the report look advanced.
-
----
-
-# Pro Tip
-
-Before screenshotting:
-
-✅ Star your own repository
-✅ Add a professional README
-✅ Keep clean folder names
-✅ Use lowercase filenames
-✅ Avoid empty folders
-✅ Upload 1–2 dummy images to diagrams/screenshots folders
-
-That dramatically improves presentation quality in the report.

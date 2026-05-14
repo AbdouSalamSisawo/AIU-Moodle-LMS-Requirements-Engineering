@@ -1,3 +1,104 @@
-# AIU Moodle LMS Requirements Engineering
+# AIU Moodle LMS Requirements Engineering Project
 
-This repository contains documentation and resources for the requirements engineering phase of the AIU Moodle LMS project.
+## Project Overview
+
+This repository contains the Requirements Engineering analysis and documentation for the AIU Moodle Learning Management System (LMS). The project was developed as part of the CCE2233 Requirements Engineering course.
+
+The repository includes:
+
+* Stakeholder analysis
+* Functional and non-functional requirements
+* UML use case modelling
+* MoSCoW prioritisation
+* Traceability matrix
+* Tool usage documentation
+
+---
+
+## Objectives
+
+1. Analyse the requirements of the AIU Moodle LMS.
+2. Apply requirements engineering techniques and tools.
+3. Document software requirements systematically.
+
+---
+
+## Tools Used
+
+| Tool       | Purpose                                      |
+| ---------- | -------------------------------------------- |
+| Draw.io    | UML use case modelling                       |
+| Trello     | Task organisation and prioritisation         |
+| GitHub     | Documentation management and version control |
+| Moodle LMS | System observation and analysis              |
+
+---
+
+## Repository Structure
+
+```text
+docs/           → Project documentation
+diagrams/       → UML diagrams and models
+screenshots/    → Evidence of tools used
+references/     → APA references
+```
+
+---
+
+## Author
+
+[Abdou Salam Sisawo]
+Bachelor of Computer Science (BCS)
+Albukhary International University
+
+---
+
+
+# BEST SCREENSHOT STRATEGY
+
+Take screenshots of:
+
+## Screenshot 1 (Best)
+
+Main repository homepage showing:
+
+* folders,
+* README,
+* project title.
+
+This is the strongest screenshot.
+
+---
+
+## Screenshot 2
+
+Open the `docs/` folder.
+
+Shows:
+
+* requirement files,
+* organisation,
+* professionalism.
+
+---
+
+## Screenshot 3 (Optional)
+
+Wiki Home page.
+
+Makes the report look advanced.
+
+---
+
+# Pro Tip
+
+Before screenshotting:
+
+✅ Star your own repository
+✅ Add a professional README
+✅ Keep clean folder names
+✅ Use lowercase filenames
+✅ Avoid empty folders
+✅ Upload 1–2 dummy images to diagrams/screenshots folders
+
+That dramatically improves presentation quality in the report.
